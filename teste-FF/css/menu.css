@@ -1,0 +1,110 @@
+.menu-lateral {
+    width: 13%;
+    height: 100%;
+    position: absolute;
+}
+
+.menu-lateral2 {
+    width: 62%;
+    height: 100%;
+    background: rgba(255, 126, 44, 1);
+}
+
+.inicio {
+    width: 90px;
+    height: 90px;
+    background: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 1%;
+    left: 4%;
+    border-radius: 50%;
+}
+
+.imagem-logo {
+    width: 35%;
+    height: 8%;
+    background-size: cover;
+    position: absolute;
+    top: 4%;
+    left: 12%;
+}
+
+.conta {
+    width: 75px;
+    height: 75px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 29%;
+    left: 9%;
+    border-radius: 50%;
+}
+.conta:hover{
+    background-color: rgb(233, 232, 232);
+}
+
+.imagem-conta {
+    width: 22%;
+    height: 6%;
+    background-size: cover;
+    position: absolute;
+    top: 32%;
+    left: 19%;
+}
+
+.visao-geral {
+    width: 60px;
+    height: 60px;
+    background: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 45%;
+    left: 12%;
+    border-radius: 50%;
+}
+
+.imagem-visaogeral {
+    width: 46%;
+    height: 13%;
+    background-size: cover;
+    position: absolute;
+    top: 43%;
+    left: 6%;
+}
+
+.metas {
+    width: 60px;
+    height: 60px;
+    background: #71BF44;
+    opacity: 1;
+    position: absolute;
+    top: 57%;
+    left: 12%;
+    border-radius: 50%;
+}
+
+.imagem-metas {
+    width: 37%;
+    height: 10%;
+    position: absolute;
+    top: 57%;
+    left: 11%;
+    border-radius: 50%;
+}
+
+.calculadora {
+    width: 60px;
+    height: 60px;
+    background: #71BF44;
+    position: absolute;
+    top: 69%;
+    left: 12%;
+    border-radius: 50%;
+}
+
+.imagem-calc {
+    width: 23%;
+    height: 6%;
+    position: absolute;
+    top: 71%;
+    left: 19%;
+}
